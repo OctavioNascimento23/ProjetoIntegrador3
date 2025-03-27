@@ -35,8 +35,6 @@ O segundo aplicativo será utilizado para visualizar e gerenciar os riscos repor
 
 ## 📂 Estrutura do Projeto
 
-/projeto-integrador-3 │── app1-registro-riscos (Kotlin) │── app2-gerenciamento-riscos (Flutter) │── documentos │ ├── requisitos.md │ ├── arquitetura.md │ ├── wireframes/ │── README.md
-
 ---
 
 ## 📌 Contribuição
