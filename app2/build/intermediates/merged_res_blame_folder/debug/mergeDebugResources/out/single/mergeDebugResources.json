@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\layout_activity_risk_map.xml.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_risk_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\layout_activity_risk_list.xml.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_risk_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\layout_activity_report_generation.xml.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_report_generation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\layout_item_risk.xml.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\item_risk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\font_montserrat_regular.ttf.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\layout_item_recent_alert.xml.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\item_recent_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\font_montserrat_medium.ttf.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\font\\montserrat_medium.ttf"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-debug-59:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.projetointegrador3.app2-main-61:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\font_montserrat_bold.ttf.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\font\\montserrat_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-debug-59:\\font_montserrat_semibold.ttf.flat",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\font\\montserrat_semibold.ttf"
+    }
+]

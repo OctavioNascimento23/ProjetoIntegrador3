@@ -1,0 +1,893 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:2:1-46:12
+INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.databinding:databinding-adapters:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d661e60ab2605095a6c8f5612ca59\transformed\databinding-adapters-8.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ca1c8ac615fc1540f09e31a128981d29\transformed\databinding-ktx-8.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\65a73a65c27f3a2d9d9a12c81651f18c\transformed\databinding-runtime-8.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bd914d5e9ca07e82bff5de3858e12bfc\transformed\viewbinding-8.9.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\33c40ff591bf1f6e9620b0a0e1f718dd\transformed\navigation-common-2.7.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8d77598ded0131c8f9a40871efc6a5d\transformed\navigation-common-ktx-2.7.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7548372e2f7c489fbaba0c12d9c6b610\transformed\navigation-runtime-2.7.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6e326224b7a47245d0fda12b3fff6786\transformed\navigation-runtime-ktx-2.7.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1ff04a51f7f0a25449ad847bd73b1f2d\transformed\navigation-fragment-2.7.6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\0cd21b5cb3ea2889cd4f6c1bc398cd87\transformed\navigation-fragment-ktx-2.7.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\468bcdf2649489a2425c3f5bdd620845\transformed\navigation-ui-ktx-2.7.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e92bfc96e88afa441f41d663c3ec7844\transformed\navigation-ui-2.7.6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\12c96801b45335afe8a3698e5495d7f8\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\688e8aa45c75bdf469b4c7734591c4aa\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ab658de7b2774b43af510f85dbe02a83\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a2ca7592708736808960628157e35f5c\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\47c5a92da22a1f3e236c9cc205fe8e5f\transformed\play-services-location-21.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\059acd454696c86add9fb65088079a82\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\03256ec10b901482043d90d4c006d88c\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a0e82ac430bd7d1ce135549f160bb8e6\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6a13b8ed16b0127e0fc0da10b7d342ea\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e82a6e525c2fb3da079ca346dc16f541\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\96cef07e9d49c90421b005d1d65ad439\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\481988c796a2acc8d4010d0145307047\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75f1bb52f3537b8a65b0f6290f428231\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8532b21c0783fb7051009e6bf65a6d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\dacda078d8321f2115fd1329bd155234\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\90af8a13199e3388fca97c943cd13e32\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f35b3905b76a672da08bcae5a0e22ff7\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a288d44b94915dc948c7b1ad31a61d24\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\379b0a1d2053444cb801cf443f3e2fdb\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a626fd0034f5985a9b950d7c47e808b1\transformed\activity-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\15166c7a414549fdbe8d489cdb9e444d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\25529310e3f7b8f35a2baf06bf313876\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d6e33cc63518990be33e6bc1e6fc501f\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f4a610d2f8c0af878c2cde3ebce230f6\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7815dee50da5106259cffe663b50c3ab\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6e2f660312cdfdf99db20c54e070052e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e9690bf5ea94889f7fc41b1eeeef3dbc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5e08f4badf7385c76421b2618fede93b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\712e4a6a84044d37e7b4e1cee97b2ebd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\787d21a0de95db05cf91ed6be60383dc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\4692e23900387b1c5cdc39494fd0d7d4\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a82de4c4609fafc9faca7af56bc11536\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7d5859600d3b74eb82c3a85f1f49a304\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b207427d89ee5e0eb22842ff65edd10f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c3c0aac4d47dded63b7c223e8cf09c09\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75bd859910cf68e93bcb8dcd360274a0\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ee28e05d85c88695d58c259db04fd128\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\39982779ac8fc8245bd2f6737152cead\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\25bbfed3ac54553ebedd8ac9a574e38a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6e94ae07b19a9e900f73b158456ebb1b\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\048e7f9aac3a1f98e5936087bad6b2dc\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f5ada3286737f4cc29937ae34f5cd8d8\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b2721268ac1a5138e723b0c1dd12b0f5\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\384a47425f039360c13c301e70cdfccf\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5b73bb6cc29a7284352ef355f52df0e6\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ec06ea6680c9efd8b9743ac9b61cf5e8\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b011b3baab25ad77ec955502dae8116f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c795d6604f3f40b8390b0995acadc58e\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\53a951ddf1d356b6279ed8bdb5463b77\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2f891fd176c04f137534a1e94eefd551\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\111d32e913785fb993991366e26534a7\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\625d5bc363deb73aaddb5990c8ab60a0\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b78853252fc459f3222df1c208975ccd\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ba740b71e92d322cc2834717c34062da\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7e1d90d5fe7bdece436338b5dcae30a0\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5a9767f912dee2c279529c6a1a4ddc8d\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\32a4d66846ddf4e4ef313941715521ca\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbf6274f49f92f4623ec2a404556f01e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98ee571c933facb025918bd4785d97be\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c8496a5ac9992a372988caf9fd1f2290\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\50a033eb0b8e7a6493f1a285f13f2224\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ed58e1333dd3a57036a31455c220cd2b\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\28146ca0507afb89ef97488d143ef3a4\transformed\firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e817438b19ddc055fb459c7b355aee4b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\36c9abe2c8a8d4303a81d947057fb304\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f601235b6936216ecf3ffa226337d7d0\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1f3d1112f969d63cabe7a13d30a9a486\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\90867f79b54a4c63c0dbd57420c565ba\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2b2b0668bb0a68e767db69603ff79d7b\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5964e2ccc466c5acc4367291af4335e7\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\0716c77028004d633b55d820f92c5b19\transformed\grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c9ddef61d1b07ddce9e60dd338a3c7ec\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+	package
+		INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8532b21c0783fb7051009e6bf65a6d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8532b21c0783fb7051009e6bf65a6d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:9:5-44:19
+INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:9:5-44:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\12c96801b45335afe8a3698e5495d7f8\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\12c96801b45335afe8a3698e5495d7f8\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\688e8aa45c75bdf469b4c7734591c4aa\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\688e8aa45c75bdf469b4c7734591c4aa\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\47c5a92da22a1f3e236c9cc205fe8e5f\transformed\play-services-location-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\47c5a92da22a1f3e236c9cc205fe8e5f\transformed\play-services-location-21.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a0e82ac430bd7d1ce135549f160bb8e6\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a0e82ac430bd7d1ce135549f160bb8e6\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\96cef07e9d49c90421b005d1d65ad439\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\96cef07e9d49c90421b005d1d65ad439\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\481988c796a2acc8d4010d0145307047\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\481988c796a2acc8d4010d0145307047\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75f1bb52f3537b8a65b0f6290f428231\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75f1bb52f3537b8a65b0f6290f428231\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\dacda078d8321f2115fd1329bd155234\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\dacda078d8321f2115fd1329bd155234\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a82de4c4609fafc9faca7af56bc11536\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a82de4c4609fafc9faca7af56bc11536\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7d5859600d3b74eb82c3a85f1f49a304\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7d5859600d3b74eb82c3a85f1f49a304\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5b73bb6cc29a7284352ef355f52df0e6\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5b73bb6cc29a7284352ef355f52df0e6\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ec06ea6680c9efd8b9743ac9b61cf5e8\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ec06ea6680c9efd8b9743ac9b61cf5e8\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b011b3baab25ad77ec955502dae8116f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b011b3baab25ad77ec955502dae8116f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c795d6604f3f40b8390b0995acadc58e\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c795d6604f3f40b8390b0995acadc58e\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\53a951ddf1d356b6279ed8bdb5463b77\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\53a951ddf1d356b6279ed8bdb5463b77\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\50a033eb0b8e7a6493f1a285f13f2224\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\50a033eb0b8e7a6493f1a285f13f2224\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e817438b19ddc055fb459c7b355aee4b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e817438b19ddc055fb459c7b355aee4b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:13:9-56
+activity#com.example.projetointegrador3.app2.RiskListActivity
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:17:13-45
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:20:9-22:71
+	android:value
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:22:13-68
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:21:13-58
+activity#com.example.projetointegrador3.app2.MainActivity
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:24:9-32:20
+	android:exported
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.projetointegrador3.app2.RiskMapActivity
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:33:9-53
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:33:19-50
+activity#com.example.projetointegrador3.app2.ReportGenerationActivity
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:34:9-62
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:34:19-59
+activity#com.example.projetointegrador3.app2.DashboardActivity
+ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:35:9-43:20
+	android:exported
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml:36:13-46
+uses-sdk
+INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d661e60ab2605095a6c8f5612ca59\transformed\databinding-adapters-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d661e60ab2605095a6c8f5612ca59\transformed\databinding-adapters-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ca1c8ac615fc1540f09e31a128981d29\transformed\databinding-ktx-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ca1c8ac615fc1540f09e31a128981d29\transformed\databinding-ktx-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\65a73a65c27f3a2d9d9a12c81651f18c\transformed\databinding-runtime-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\65a73a65c27f3a2d9d9a12c81651f18c\transformed\databinding-runtime-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bd914d5e9ca07e82bff5de3858e12bfc\transformed\viewbinding-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.9.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bd914d5e9ca07e82bff5de3858e12bfc\transformed\viewbinding-8.9.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\33c40ff591bf1f6e9620b0a0e1f718dd\transformed\navigation-common-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\33c40ff591bf1f6e9620b0a0e1f718dd\transformed\navigation-common-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8d77598ded0131c8f9a40871efc6a5d\transformed\navigation-common-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8d77598ded0131c8f9a40871efc6a5d\transformed\navigation-common-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7548372e2f7c489fbaba0c12d9c6b610\transformed\navigation-runtime-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7548372e2f7c489fbaba0c12d9c6b610\transformed\navigation-runtime-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6e326224b7a47245d0fda12b3fff6786\transformed\navigation-runtime-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6e326224b7a47245d0fda12b3fff6786\transformed\navigation-runtime-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1ff04a51f7f0a25449ad847bd73b1f2d\transformed\navigation-fragment-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1ff04a51f7f0a25449ad847bd73b1f2d\transformed\navigation-fragment-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\0cd21b5cb3ea2889cd4f6c1bc398cd87\transformed\navigation-fragment-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\0cd21b5cb3ea2889cd4f6c1bc398cd87\transformed\navigation-fragment-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\468bcdf2649489a2425c3f5bdd620845\transformed\navigation-ui-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\468bcdf2649489a2425c3f5bdd620845\transformed\navigation-ui-ktx-2.7.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e92bfc96e88afa441f41d663c3ec7844\transformed\navigation-ui-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.7.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e92bfc96e88afa441f41d663c3ec7844\transformed\navigation-ui-2.7.6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\12c96801b45335afe8a3698e5495d7f8\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\12c96801b45335afe8a3698e5495d7f8\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\688e8aa45c75bdf469b4c7734591c4aa\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\688e8aa45c75bdf469b4c7734591c4aa\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ab658de7b2774b43af510f85dbe02a83\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ab658de7b2774b43af510f85dbe02a83\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a2ca7592708736808960628157e35f5c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a2ca7592708736808960628157e35f5c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\47c5a92da22a1f3e236c9cc205fe8e5f\transformed\play-services-location-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\47c5a92da22a1f3e236c9cc205fe8e5f\transformed\play-services-location-21.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\059acd454696c86add9fb65088079a82\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\059acd454696c86add9fb65088079a82\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\03256ec10b901482043d90d4c006d88c\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\03256ec10b901482043d90d4c006d88c\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a0e82ac430bd7d1ce135549f160bb8e6\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a0e82ac430bd7d1ce135549f160bb8e6\transformed\firebase-appcheck-interop-17.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6a13b8ed16b0127e0fc0da10b7d342ea\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6a13b8ed16b0127e0fc0da10b7d342ea\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e82a6e525c2fb3da079ca346dc16f541\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e82a6e525c2fb3da079ca346dc16f541\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\96cef07e9d49c90421b005d1d65ad439\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\96cef07e9d49c90421b005d1d65ad439\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\481988c796a2acc8d4010d0145307047\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\481988c796a2acc8d4010d0145307047\transformed\firebase-analytics-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75f1bb52f3537b8a65b0f6290f428231\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75f1bb52f3537b8a65b0f6290f428231\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8532b21c0783fb7051009e6bf65a6d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8532b21c0783fb7051009e6bf65a6d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\dacda078d8321f2115fd1329bd155234\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\dacda078d8321f2115fd1329bd155234\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\90af8a13199e3388fca97c943cd13e32\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\90af8a13199e3388fca97c943cd13e32\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f35b3905b76a672da08bcae5a0e22ff7\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f35b3905b76a672da08bcae5a0e22ff7\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a288d44b94915dc948c7b1ad31a61d24\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a288d44b94915dc948c7b1ad31a61d24\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\379b0a1d2053444cb801cf443f3e2fdb\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\379b0a1d2053444cb801cf443f3e2fdb\transformed\fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a626fd0034f5985a9b950d7c47e808b1\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a626fd0034f5985a9b950d7c47e808b1\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\15166c7a414549fdbe8d489cdb9e444d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\15166c7a414549fdbe8d489cdb9e444d\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\25529310e3f7b8f35a2baf06bf313876\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\25529310e3f7b8f35a2baf06bf313876\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d6e33cc63518990be33e6bc1e6fc501f\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d6e33cc63518990be33e6bc1e6fc501f\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f4a610d2f8c0af878c2cde3ebce230f6\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f4a610d2f8c0af878c2cde3ebce230f6\transformed\lifecycle-service-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7815dee50da5106259cffe663b50c3ab\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7815dee50da5106259cffe663b50c3ab\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6e2f660312cdfdf99db20c54e070052e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6e2f660312cdfdf99db20c54e070052e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e9690bf5ea94889f7fc41b1eeeef3dbc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e9690bf5ea94889f7fc41b1eeeef3dbc\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5e08f4badf7385c76421b2618fede93b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5e08f4badf7385c76421b2618fede93b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\712e4a6a84044d37e7b4e1cee97b2ebd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\712e4a6a84044d37e7b4e1cee97b2ebd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\787d21a0de95db05cf91ed6be60383dc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\787d21a0de95db05cf91ed6be60383dc\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\4692e23900387b1c5cdc39494fd0d7d4\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\4692e23900387b1c5cdc39494fd0d7d4\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a82de4c4609fafc9faca7af56bc11536\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a82de4c4609fafc9faca7af56bc11536\transformed\play-services-measurement-sdk-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7d5859600d3b74eb82c3a85f1f49a304\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7d5859600d3b74eb82c3a85f1f49a304\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b207427d89ee5e0eb22842ff65edd10f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b207427d89ee5e0eb22842ff65edd10f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c3c0aac4d47dded63b7c223e8cf09c09\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c3c0aac4d47dded63b7c223e8cf09c09\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75bd859910cf68e93bcb8dcd360274a0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75bd859910cf68e93bcb8dcd360274a0\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ee28e05d85c88695d58c259db04fd128\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ee28e05d85c88695d58c259db04fd128\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\39982779ac8fc8245bd2f6737152cead\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\39982779ac8fc8245bd2f6737152cead\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\25bbfed3ac54553ebedd8ac9a574e38a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\25bbfed3ac54553ebedd8ac9a574e38a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6e94ae07b19a9e900f73b158456ebb1b\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6e94ae07b19a9e900f73b158456ebb1b\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\048e7f9aac3a1f98e5936087bad6b2dc\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\048e7f9aac3a1f98e5936087bad6b2dc\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f5ada3286737f4cc29937ae34f5cd8d8\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f5ada3286737f4cc29937ae34f5cd8d8\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b2721268ac1a5138e723b0c1dd12b0f5\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b2721268ac1a5138e723b0c1dd12b0f5\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\384a47425f039360c13c301e70cdfccf\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\384a47425f039360c13c301e70cdfccf\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5b73bb6cc29a7284352ef355f52df0e6\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5b73bb6cc29a7284352ef355f52df0e6\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ec06ea6680c9efd8b9743ac9b61cf5e8\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ec06ea6680c9efd8b9743ac9b61cf5e8\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b011b3baab25ad77ec955502dae8116f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b011b3baab25ad77ec955502dae8116f\transformed\play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c795d6604f3f40b8390b0995acadc58e\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c795d6604f3f40b8390b0995acadc58e\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\53a951ddf1d356b6279ed8bdb5463b77\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\53a951ddf1d356b6279ed8bdb5463b77\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2f891fd176c04f137534a1e94eefd551\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2f891fd176c04f137534a1e94eefd551\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\111d32e913785fb993991366e26534a7\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\111d32e913785fb993991366e26534a7\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\625d5bc363deb73aaddb5990c8ab60a0\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\625d5bc363deb73aaddb5990c8ab60a0\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b78853252fc459f3222df1c208975ccd\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\b78853252fc459f3222df1c208975ccd\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ba740b71e92d322cc2834717c34062da\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ba740b71e92d322cc2834717c34062da\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7e1d90d5fe7bdece436338b5dcae30a0\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\7e1d90d5fe7bdece436338b5dcae30a0\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5a9767f912dee2c279529c6a1a4ddc8d\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5a9767f912dee2c279529c6a1a4ddc8d\transformed\MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\32a4d66846ddf4e4ef313941715521ca\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\32a4d66846ddf4e4ef313941715521ca\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbf6274f49f92f4623ec2a404556f01e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbf6274f49f92f4623ec2a404556f01e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98ee571c933facb025918bd4785d97be\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98ee571c933facb025918bd4785d97be\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c8496a5ac9992a372988caf9fd1f2290\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c8496a5ac9992a372988caf9fd1f2290\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\50a033eb0b8e7a6493f1a285f13f2224\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\50a033eb0b8e7a6493f1a285f13f2224\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ed58e1333dd3a57036a31455c220cd2b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ed58e1333dd3a57036a31455c220cd2b\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\28146ca0507afb89ef97488d143ef3a4\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\28146ca0507afb89ef97488d143ef3a4\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e817438b19ddc055fb459c7b355aee4b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\e817438b19ddc055fb459c7b355aee4b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\36c9abe2c8a8d4303a81d947057fb304\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\36c9abe2c8a8d4303a81d947057fb304\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f601235b6936216ecf3ffa226337d7d0\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f601235b6936216ecf3ffa226337d7d0\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1f3d1112f969d63cabe7a13d30a9a486\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1f3d1112f969d63cabe7a13d30a9a486\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\90867f79b54a4c63c0dbd57420c565ba\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\90867f79b54a4c63c0dbd57420c565ba\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2b2b0668bb0a68e767db69603ff79d7b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2b2b0668bb0a68e767db69603ff79d7b\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5964e2ccc466c5acc4367291af4335e7\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5964e2ccc466c5acc4367291af4335e7\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\0716c77028004d633b55d820f92c5b19\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\0716c77028004d633b55d820f92c5b19\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c9ddef61d1b07ddce9e60dd338a3c7ec\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\c9ddef61d1b07ddce9e60dd338a3c7ec\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Tavinho\Downloads\ProjetoIntegrador3-main\ControleDeRiscos\app2\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8532b21c0783fb7051009e6bf65a6d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\d8532b21c0783fb7051009e6bf65a6d7\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\0716c77028004d633b55d820f92c5b19\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\0716c77028004d633b55d820f92c5b19\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ea5bebafb88224a68f4eab212f5e15c4\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:12:9-18:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:13:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:12:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\005d77535c21b2c4dedf0d4060618d3e\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:15:17-122
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\2968c4e56046ae30e71c7d56b218ac42\transformed\firebase-storage-20.2.1\AndroidManifest.xml:33:17-107
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\cd403535b58fc14001bc9888eb8e00eb\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:15:17-124
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.2.2] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\5f1a9da5a4bd6b175cbb2eb5e00b0c67\transformed\firebase-database-20.2.2\AndroidManifest.xml:32:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\6bb03fcd3cc5dde20e84245601ce87d2\transformed\firebase-firestore-ktx-24.7.1\AndroidManifest.xml:13:17-126
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.7.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\930f3eb3aaae6a24618565cf6467e180\transformed\firebase-firestore-24.7.1\AndroidManifest.xml:18:17-111
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\188d4d27fc8321d7c3ecc20cd680990a\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:12:17-116
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f1dc4db23b26f704dce1d82d564967a7\transformed\firebase-auth-22.1.1\AndroidManifest.xml:70:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\96cef07e9d49c90421b005d1d65ad439\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\96cef07e9d49c90421b005d1d65ad439\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\96cef07e9d49c90421b005d1d65ad439\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\96cef07e9d49c90421b005d1d65ad439\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\98bd4b5d3bab37014a432112f1a4146e\transformed\firebase-analytics-ktx-21.3.0\AndroidManifest.xml:12:17-126
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\3e3a7d816dbec3404e779f627e1559f9\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:15:17-113
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ec06ea6680c9efd8b9743ac9b61cf5e8\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\ec06ea6680c9efd8b9743ac9b61cf5e8\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\64f00da13f1ddb16040ed97c85350a06\transformed\play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\720dcde687a7b041db6ee5089a7aefc3\transformed\play-services-measurement-api-21.3.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.4] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\99a485aeee38a99ab529c956de6ad51d\transformed\firebase-installations-17.1.4\AndroidManifest.xml:16:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\f8209c155b8e900c9fac115328f39a0f\transformed\firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\50a033eb0b8e7a6493f1a285f13f2224\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\50a033eb0b8e7a6493f1a285f13f2224\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\8e69c13e741c1364a9bb5358334eb6b2\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\1fd0ec79469bc13887145ab2c588db4c\transformed\play-services-measurement-impl-21.3.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.3.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\9810e796aa651e64278c727b729d2e4e\transformed\play-services-measurement-21.3.0\AndroidManifest.xml:40:13-87
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\bf692b5603108b0e1c8cb660f077ade2\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.example.projetointegrador3.app2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.projetointegrador3.app2.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\fbc763a82dec07d67aa01082b8692e4f\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\75969727f16a1a345c586f65f56e42cc\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\53a951ddf1d356b6279ed8bdb5463b77\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\53a951ddf1d356b6279ed8bdb5463b77\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\53a951ddf1d356b6279ed8bdb5463b77\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Tavinho\.gradle\caches\8.11.1\transforms\a66d1120b34e4cd69f24311da20a921a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

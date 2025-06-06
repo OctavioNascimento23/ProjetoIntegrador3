@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Controle de Riscos</string>
+
+    <!-- Níveis de severidade -->
+    <string-array name="severity_levels">
+        <item>Baixa</item>
+        <item>Média</item>
+        <item>Alta</item>
+    </string-array>
+
+    <!-- Outros textos -->
+    <string name="login_title">Controle de Riscos</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+    <string name="login_button">Entrar</string>
+    <string name="register_risk">Registrar Risco</string>
+    <string name="risk_title_label">Título</string>
+    <string name="risk_description_label">Descrição</string>
+    <string name="take_photo_button">Tirar Foto do Risco</string>
+    <string name="view_risks_button">Visualizar Riscos</string>
+    <string name="logout_button">Sair</string>
+</resources>

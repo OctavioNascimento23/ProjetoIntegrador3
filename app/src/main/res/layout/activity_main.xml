@@ -1,0 +1,129 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:windowBackground"
+    android:padding="24dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/mainTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Registrar Risco"
+            android:textSize="26sp"
+            android:textColor="?attr/colorPrimary"
+            android:textStyle="bold"
+            android:fontFamily="?android:fontFamily"
+            android:layout_marginBottom="32dp" />
+
+        <TextView
+            android:id="@+id/riskTitleLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Título"
+            android:textSize="16sp"
+            android:textColor="?android:textColorSecondary"
+            android:fontFamily="?android:fontFamily"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/riskTitleEditText"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_borda_red"
+            android:hint="Ex: Fiação exposta"
+            android:padding="12dp"
+            android:fontFamily="?android:fontFamily"
+            android:textColor="?android:textColorPrimary"
+            android:textColorHint="?android:textColorSecondary"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/riskDescriptionLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Descrição"
+            android:textSize="16sp"
+            android:textColor="?android:textColorSecondary"
+            android:fontFamily="?android:fontFamily"
+            android:layout_marginBottom="8dp" />
+
+        <EditText
+            android:id="@+id/riskDescriptionEditText"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:background="@drawable/edittext_borda_red"
+            android:hint="Detalhe o risco identificado..."
+            android:padding="12dp"
+            android:gravity="top|start"
+            android:fontFamily="?android:fontFamily"
+            android:textColor="?android:textColorPrimary"
+            android:textColorHint="?android:textColorSecondary"
+            android:layout_marginBottom="24dp" />
+
+        <Spinner
+            android:id="@+id/severitySpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:entries="@array/severity_levels"
+            android:spinnerMode="dropdown" />
+
+        <Button
+            android:id="@+id/takePhotoButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Tirar Foto do Risco"
+            android:backgroundTint="?attr/colorPrimary"
+            android:textColor="?android:windowBackground"
+            android:textStyle="bold"
+            android:fontFamily="?android:fontFamily"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/registerRiskButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Registrar Risco"
+            android:backgroundTint="?attr/colorPrimary"
+            android:textColor="?android:windowBackground"
+            android:textStyle="bold"
+            android:fontFamily="?android:fontFamily"
+            android:layout_marginBottom="16dp" />
+
+        <ImageView
+            android:id="@+id/riskImageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="8dp" />
+
+        <Button
+            android:id="@+id/viewRisksButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Visualizar Riscos"
+            android:backgroundTint="?attr/colorPrimary"
+            android:textColor="?android:windowBackground"
+            android:textStyle="bold"
+            android:fontFamily="?android:fontFamily"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/logoutButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Sair"
+            android:backgroundTint="?attr/colorPrimary"
+            android:textColor="?android:windowBackground"
+            android:textStyle="bold"
+            android:fontFamily="?android:fontFamily"
+            android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+</ScrollView>

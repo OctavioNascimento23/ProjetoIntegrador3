@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-mergeDebugResources-58:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-mergeDebugResources-58:\\layout\\item_recent_alert.xml",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\item_recent_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-mergeDebugResources-58:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-mergeDebugResources-58:\\layout\\activity_risk_list.xml",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_risk_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-mergeDebugResources-58:\\layout\\activity_report_generation.xml",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_report_generation.xml"
+    },
+    {
+        "merged": "com.example.projetointegrador3.app2-mergeDebugResources-58:/layout/item_risk.xml",
+        "source": "com.example.projetointegrador3.app2-main-61:/layout/item_risk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-mergeDebugResources-58:\\layout\\item_risk.xml",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\item_risk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-mergeDebugResources-58:\\layout\\activity_risk_map.xml",
+        "source": "C:\\Users\\Tavinho\\.gradle\\daemon\\8.11.1\\com.example.projetointegrador3.app2-main-61:\\layout\\activity_risk_map.xml"
+    }
+]
