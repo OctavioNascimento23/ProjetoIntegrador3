@@ -71,7 +71,7 @@ ControleDeRiscos/
 
 1. **Clone o repositório**
 ```bash
-git clone https://https://github.com/OctavioNascimento23/ProjetoIntegrador3.git
+git clone https://github.com/OctavioNascimento23/ProjetoIntegrador3.git
 ```
 
 2. **Acesso ao Firebase**
