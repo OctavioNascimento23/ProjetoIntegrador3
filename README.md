@@ -64,8 +64,6 @@ ControleDeRiscos/
 
 ### Pré-requisitos
 - Android Studio (versão mais recente)
-- JDK 11 ou superior
-- Android SDK (API 24 ou superior)
 - Google Play Services
 - Firebase Account
 
