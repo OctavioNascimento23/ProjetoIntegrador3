@@ -73,24 +73,20 @@ ControleDeRiscos/
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/ControleDeRiscos.git
+git clone https://https://github.com/OctavioNascimento23/ProjetoIntegrador3.git
 ```
 
-2. **Configuração do Firebase**
-   - Crie um projeto no [Firebase Console](https://console.firebase.google.com)
-   - Adicione um aplicativo Android
-   - Baixe o arquivo `google-services.json`
-   - Coloque o arquivo em:
-     - `app/google-services.json`
-     - `app2/google-services.json`
+2. **Acesso ao Firebase**
+   - Acesse [Firebase Console](https://console.firebase.google.com)
+   - Somente com email autenticado para acessar
+   - Já configurado nos aplicativos
 
 3. **Configuração do Google Maps**
-   - Obtenha uma chave de API do Google Maps
    - Adicione a chave no arquivo `app2/src/main/AndroidManifest.xml`:
    ```xml
    <meta-data
        android:name="com.google.android.geo.API_KEY"
-       android:value="SUA_CHAVE_API_AQUI" />
+       android:value="AIzaSyB6IZsteY3--0L2Swv99Jx2paR_dbnV5Sk" />
    ```
 
 4. **Configuração do Android Studio**
