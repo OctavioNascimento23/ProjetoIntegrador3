@@ -1,96 +1,20 @@
-# Projeto Integrador 3: Sistema de Controle de Riscos no Ambiente de Trabalho
-
-Este projeto tem como objetivo desenvolver um sistema de monitoramento de riscos no ambiente de trabalho, aplicando conceitos estudados durante o semestre. O sistema será composto por dois aplicativos que irão melhorar a eficiência da gestão de riscos.
-
-## Tecnologias Utilizadas
-- **Kotlin** para o aplicativo móvel de registro de riscos
-- **Flutter** para o aplicativo de gerenciamento de riscos
-
----
-
-## 📱 APP 1 - Registro de Riscos
-
-O primeiro aplicativo será responsável por registrar e reportar riscos no ambiente de trabalho. Ele permitirá que os usuários façam o envio de riscos diretamente para os gestores.
-
-### 📌 Funcionalidades:
-- **Autenticação de usuário**
-- **Registro de riscos** com anexos (fotos) e geolocalização
-- **Envio de alertas** para a equipe de gestão de riscos
-
-**Tecnologia utilizada:** Kotlin
-
----
-
-## 🖥️ APP 2 - Gerenciamento de Riscos
-
-O segundo aplicativo será utilizado para visualizar e gerenciar os riscos reportados. Ele permitirá uma análise detalhada dos riscos e auxiliará na tomada de decisões.
-
-### 📌 Funcionalidades:
-- **Mapa de Riscos**, destacando as principais áreas de risco com base na geolocalização
-- **Geração de relatórios** detalhados sobre os riscos identificados
-
-**Tecnologia utilizada:** Flutter
-
----
-
-## 📂 Estrutura do Projeto
-
-```
-ControleDeRiscos/
-├── app/                    # App 1 - Registro de Riscos (Kotlin)
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/      # Código fonte Kotlin
-│   │   │   ├── res/       # Recursos (layouts, imagens, etc)
-│   │   │   └── AndroidManifest.xml
-│   │   └── test/          # Testes unitários
-│   └── build.gradle       # Configurações do Gradle
-│
-├── app2/                   # App 2 - Gerenciamento de Riscos (Kotlin)
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/      # Código fonte Kotlin
-│   │   │   ├── res/       # Recursos (layouts, imagens, etc)
-│   │   │   └── AndroidManifest.xml
-│   │   └── test/          # Testes unitários
-│   └── build.gradle       # Configurações do Gradle
-│
-├── gradle/                 # Configurações do Gradle Wrapper
-├── build.gradle           # Configurações do projeto
-└── settings.gradle        # Configurações dos módulos
-```
-
-## 🚀 Como Executar o Projeto
-
-### Pré-requisitos
-- Android Studio (versão mais recente)
-- JDK 11 ou superior
-- Android SDK (API 24 ou superior)
-- Google Play Services
-- Firebase Account
-
-### Configuração do Ambiente
-
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/ControleDeRiscos.git
+git clone https://https://github.com/OctavioNascimento23/ProjetoIntegrador3.git
+git clone https://github.com/OctavioNascimento23/ProjetoIntegrador3.gitAdd commentMore actions
 ```
 
-2. **Configuração do Firebase**
-   - Crie um projeto no [Firebase Console](https://console.firebase.google.com)
-   - Adicione um aplicativo Android
-   - Baixe o arquivo `google-services.json`
-   - Coloque o arquivo em:
-     - `app/google-services.json`
-     - `app2/google-services.json`
+2. **Acesso ao Firebase**
+   - Acesse [Firebase Console](https://console.firebase.google.com)
+   - Somente com email autenticado para acessar
+   - Já configurado nos aplicativos
 
 3. **Configuração do Google Maps**
-   - Obtenha uma chave de API do Google Maps
    - Adicione a chave no arquivo `app2/src/main/AndroidManifest.xml`:
    ```xml
    <meta-data
        android:name="com.google.android.geo.API_KEY"
-       android:value="SUA_CHAVE_API_AQUI" />
+       android:value="AIzaSyB6IZsteY3--0L2Swv99Jx2paR_dbnV5Sk" />
    ```
 
 4. **Configuração do Android Studio**
@@ -135,7 +59,11 @@ Se houver problemas com a configuração do Firebase:
 Para resolver problemas com o Google Maps:
 
 - Verifique se a chave da API do Google Maps está correta no arquivo `app2/src/main/AndroidManifest.xml`.
-- Confirme se a API do Google Maps está habilitada no Console do Google Cloud associado à sua chave.
+  ```xml
+   <meta-data
+       android:name="com.google.android.geo.API_KEY"
+       android:value="AIzaSyB6IZsteY3--0L2Swv99Jx2paR_dbnV5Sk" />
+   ```
 
 </details>
 
@@ -158,14 +86,14 @@ Notepad++
 
 </details> <details> <summary><strong>🔍 3. Encontre a linha que começa com <code>sdk.dir=</code></strong></summary>
 Exemplo antes da correção:
-sdk.dir=C:\\Users\\Tavinho\\AppData\\Local\\Android\\Sdk
+sdk.dir=C:\\Users\\Tavinho (MEU USUÁRIO)\\AppData\\Local\\Android\\Sdk
 </details> <details> <summary><strong>✏️ 4. Corrija o caminho para o seu SDK</strong></summary>
 Substitua pelo caminho correto no seu computador
 
 Use barras duplas (\\) como separadores
 
 Exemplo corrigido:
-sdk.dir=C:\\Users\\Darkz\\AppData\\Local\\Android\\Sdk
+sdk.dir=C:\\Users\\SEU_USUARIO_LOCAL\\AppData\\Local\\Android\\Sdk
 
 </details> <details> <summary><strong>💾 5. Salve o arquivo</strong></summary>
 Após alterar, salve o arquivo local.properties
@@ -179,6 +107,7 @@ Ou reinicie o Android Studio, que pode detectar a mudança automaticamente
 
 </details>
 ✅ Pronto! O caminho do SDK foi configurado corretamente e o projeto deve funcionar sem erros relacionados ao Gradle.
+
 
 ---
 
