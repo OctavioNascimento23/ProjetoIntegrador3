@@ -35,6 +35,95 @@ O segundo aplicativo será utilizado para visualizar e gerenciar os riscos repor
 
 ## 📂 Estrutura do Projeto
 
+```
+ControleDeRiscos/
+├── app/                    # App 1 - Registro de Riscos (Kotlin)
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/      # Código fonte Kotlin
+│   │   │   ├── res/       # Recursos (layouts, imagens, etc)
+│   │   │   └── AndroidManifest.xml
+│   │   └── test/          # Testes unitários
+│   └── build.gradle       # Configurações do Gradle
+│
+├── app2/                   # App 2 - Gerenciamento de Riscos (Kotlin)
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/      # Código fonte Kotlin
+│   │   │   ├── res/       # Recursos (layouts, imagens, etc)
+│   │   │   └── AndroidManifest.xml
+│   │   └── test/          # Testes unitários
+│   └── build.gradle       # Configurações do Gradle
+│
+├── gradle/                 # Configurações do Gradle Wrapper
+├── build.gradle           # Configurações do projeto
+└── settings.gradle        # Configurações dos módulos
+```
+
+## 🚀 Como Executar o Projeto
+
+### Pré-requisitos
+- Android Studio (versão mais recente)
+- JDK 11 ou superior
+- Android SDK (API 24 ou superior)
+- Google Play Services
+- Firebase Account
+
+### Configuração do Ambiente
+
+1. **Clone o repositório**
+```bash
+git clone https://github.com/seu-usuario/ControleDeRiscos.git
+```
+
+2. **Configuração do Firebase**
+   - Crie um projeto no [Firebase Console](https://console.firebase.google.com)
+   - Adicione um aplicativo Android
+   - Baixe o arquivo `google-services.json`
+   - Coloque o arquivo em:
+     - `app/google-services.json`
+     - `app2/google-services.json`
+
+3. **Configuração do Google Maps**
+   - Obtenha uma chave de API do Google Maps
+   - Adicione a chave no arquivo `app2/src/main/AndroidManifest.xml`:
+   ```xml
+   <meta-data
+       android:name="com.google.android.geo.API_KEY"
+       android:value="SUA_CHAVE_API_AQUI" />
+   ```
+
+4. **Configuração do Android Studio**
+   - Abra o projeto no Android Studio
+   - Sincronize o projeto com os arquivos Gradle
+   - Aguarde a conclusão do download das dependências
+
+### Executando os Aplicativos
+
+#### App 1 (Registro de Riscos)
+1. Abra o projeto no Android Studio
+2. Selecione o módulo `app` no seletor de configuração
+3. Conecte um dispositivo Android ou inicie um emulador
+4. Clique em "Run" (▶️) ou pressione Shift + F10
+
+#### App 2 (Gerenciamento de Riscos)
+1. No mesmo projeto, selecione o módulo `app2`
+2. Clique em "Run" (▶️) ou pressione Shift + F10
+
+### Solução de Problemas Comuns
+
+1. **Erro de Gradle**
+   - Execute "File > Invalidate Caches / Restart"
+   - Atualize o Gradle para a versão mais recente
+
+2. **Erro de Firebase**
+   - Verifique se o arquivo `google-services.json` está no local correto
+   - Confirme se as dependências do Firebase estão corretas no `build.gradle`
+
+3. **Erro de Google Maps**
+   - Verifique se a chave da API está correta
+   - Confirme se a API está habilitada no Console do Google Cloud
+
 ---
 
 ## 📌 Contribuição
