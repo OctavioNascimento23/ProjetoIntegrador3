@@ -2,6 +2,9 @@
 
 Este projeto tem como objetivo desenvolver um sistema de monitoramento de riscos no ambiente de trabalho, aplicando conceitos estudados durante o semestre. O sistema será composto por dois aplicativos que irão melhorar a eficiência da gestão de riscos.
 
+## Vídeo do grupo
+- [**Link Google Drive**](https://drive.google.com/file/d/1bH4Ed9lH3ZNDR01_jDy0it4FZB5XxowY/view?usp=sharing)
+
 ## Tecnologias Utilizadas
 - **Kotlin** para o aplicativo móvel de registro de riscos
 - **Kotlin** para o aplicativo de gerenciamento de riscos
