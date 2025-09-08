@@ -1,98 +1,138 @@
 # Projeto Integrador 3: Sistema de Controle de Riscos no Ambiente de Trabalho
 
-Este projeto tem como objetivo desenvolver um sistema de monitoramento de riscos no ambiente de trabalho, aplicando conceitos estudados durante o semestre. O sistema será composto por dois aplicativos que irão melhorar a eficiência da gestão de riscos.
+Este projeto acadêmico tem como objetivo desenvolver um sistema completo de monitoramento e gestão de riscos no ambiente de trabalho, aplicando conceitos de desenvolvimento mobile, integração com serviços em nuvem e experiência do usuário estudados durante o semestre. 
+
+O sistema é composto por **dois aplicativos Android** desenvolvidos em **Kotlin** que trabalham em conjunto para melhorar a eficiência da gestão de riscos ocupacionais, permitindo desde o registro em campo até a análise gerencial dos dados coletados.
 
 ## Vídeo do grupo
 - [**Link Google Drive**](https://drive.google.com/file/d/1bH4Ed9lH3ZNDR01_jDy0it4FZB5XxowY/view?usp=sharing)
 
 ## Tecnologias Utilizadas
-- **Kotlin** para o aplicativo móvel de registro de riscos
-- **Kotlin** para o aplicativo de gerenciamento de riscos
+- **Linguagem**: Kotlin para desenvolvimento Android
+- **Backend**: Firebase (Authentication, Firestore, Realtime Database, Storage)
+- **Mapas**: Google Maps API e Google Location Services
+- **UI/UX**: Material Design Components
+- **Gráficos**: MPAndroidChart para visualizações de dados
+- **Imagens**: Glide para carregamento e cache de imagens
+- **Arquitetura**: MVVM com LiveData e ViewModel
 
 ---
 
 ## 📱 APP 1 - Registro de Riscos
 
-O primeiro aplicativo será responsável por registrar e reportar riscos no ambiente de trabalho. Ele permitirá que os usuários façam o envio de riscos diretamente para os gestores.
+O primeiro aplicativo é destinado aos **trabalhadores e supervisores de campo**, funcionando como uma ferramenta móvel para identificação e registro de situações de risco em tempo real no ambiente de trabalho.
 
-### 📌 Funcionalidades:
-- **Autenticação de usuário**
-- **Registro de riscos** com anexos (fotos) e geolocalização
-- **Envio de alertas** para a equipe de gestão de riscos
+### 📌 Funcionalidades Principais:
+- **Autenticação Segura**: Login com Firebase Authentication
+- **Registro Completo de Riscos**: 
+  - Captura de fotos dos riscos identificados
+  - Geolocalização automática do ponto de risco
+  - Descrição detalhada da situação
+  - Classificação do nível de severidade
+- **Envio Instantâneo**: Comunicação direta com a equipe de gestão
+- **Histórico Pessoal**: Visualização dos riscos reportados pelo usuário
+- **Interface Intuitiva**: Design responsivo adaptado para uso em campo
 
-**Tecnologia utilizada:** Kotlin
+**Público-alvo**: Funcionários, supervisores de segurança, equipes de campo
 
 ---
 
 ## 🖥️ APP 2 - Gerenciamento de Riscos
 
-O segundo aplicativo será utilizado para visualizar e gerenciar os riscos reportados. Ele permitirá uma análise detalhada dos riscos e auxiliará na tomada de decisões.
+O segundo aplicativo é voltado para **gestores, coordenadores de segurança e administradores**, oferecendo uma plataforma completa para análise, monitoramento e tomada de decisões baseadas nos dados coletados.
 
-### 📌 Funcionalidades:
-- **Mapa de Riscos**, destacando as principais áreas de risco com base na geolocalização
-- **Geração de relatórios** detalhados sobre os riscos identificados
+### 📌 Funcionalidades Principais:
+- **Dashboard Executivo**: Visão geral dos indicadores de segurança
+- **Mapa Interativo de Riscos**: 
+  - Visualização geográfica de todos os riscos reportados
+  - Filtros por data, tipo e severidade
+  - Identificação de áreas críticas
+- **Gestão de Alertas**: 
+  - Lista de riscos pendentes de análise
+  - Sistema de priorização automática
+  - Acompanhamento do status de resolução
+- **Geração de Relatórios**: 
+  - Relatórios detalhados por período
+  - Análises estatísticas e gráficos
+  - Exportação para diferentes formatos
+- **Análise de Tendências**: Identificação de padrões e áreas de maior incidência
 
-**Tecnologia utilizada:** Kotlin
+**Público-alvo**: Gestores de segurança, coordenadores, administradores
 
 ---
 
 ## 📂 Estrutura do Projeto
 
 ```
-ControleDeRiscos/
-├── app/                    # App 1 - Registro de Riscos (Kotlin)
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/      # Código fonte Kotlin
-│   │   │   ├── res/       # Recursos (layouts, imagens, etc)
-│   │   │   └── AndroidManifest.xml
-│   │   └── test/          # Testes unitários
-│   └── build.gradle       # Configurações do Gradle
+ProjetoIntegrador3/
+├── app/                           # App 1 - Registro de Riscos
+│   ├── src/main/java/            # Código fonte Kotlin
+│   │   └── com/example/projetointegrador3/
+│   │       ├── MainActivity.kt    # Tela principal
+│   │       ├── LoginActivity.kt   # Autenticação
+│   │       ├── ViewRisksActivity.kt # Visualização de riscos
+│   │       ├── Risk.kt           # Modelo de dados
+│   │       └── RiskAdapter.kt    # Adaptador para listas
+│   ├── src/main/res/             # Recursos (layouts, imagens, etc)
+│   ├── google-services.json      # Configuração Firebase
+│   └── build.gradle.kts          # Dependências do módulo
 │
-├── app2/                   # App 2 - Gerenciamento de Riscos (Kotlin)
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/      # Código fonte Kotlin
-│   │   │   ├── res/       # Recursos (layouts, imagens, etc)
-│   │   │   └── AndroidManifest.xml
-│   │   └── test/          # Testes unitários
-│   └── build.gradle       # Configurações do Gradle
+├── app2/                          # App 2 - Gerenciamento de Riscos
+│   ├── src/main/java/            # Código fonte Kotlin
+│   │   └── com/example/projetointegrador3/app2/
+│   │       ├── MainActivity.kt         # Tela principal
+│   │       ├── DashboardActivity.kt    # Dashboard executivo
+│   │       ├── RiskMapActivity.kt      # Mapa de riscos
+│   │       ├── RiskListActivity.kt     # Lista de riscos
+│   │       ├── ReportGenerationActivity.kt # Geração de relatórios
+│   │       └── Risco.kt               # Modelo de dados
+│   ├── google-services.json      # Configuração Firebase
+│   └── build.gradle.kts          # Dependências do módulo
 │
-├── gradle/                 # Configurações do Gradle Wrapper
-├── build.gradle           # Configurações do projeto
-└── settings.gradle        # Configurações dos módulos
+├── Documentação/                  # Documentação do projeto
+├── gradle/                        # Gradle Wrapper
+├── build.gradle.kts              # Configurações do projeto raiz
+├── settings.gradle.kts           # Configurações dos módulos
+└── README.md                     # Este arquivo
 ```
 
 ## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
-- Android Studio (versão mais recente)
-- Google Play Services
-- Firebase Account (com permissão)
+- **Android Studio** (versão 2023.1 ou superior)
+- **JDK 11** ou superior
+- **Android SDK** (API level 24+)
+- **Conta Google** para acessar Firebase Console
+- **Conta Google Cloud** para Google Maps API
+- **Dispositivo Android** (API 24+) ou emulador configurado
 
 1. **Clone o repositório**
 ```bash
-git clone https://https://github.com/OctavioNascimento23/ProjetoIntegrador3.git
-git clone https://github.com/OctavioNascimento23/ProjetoIntegrador3.gitAdd commentMore actions
+git clone https://github.com/OctavioNascimento23/ProjetoIntegrador3.git
 ```
 
-2. **Acesso ao Firebase**
-   - Acesse [Firebase Console](https://console.firebase.google.com)
-   - Somente com email autenticado para acessar
-   - Já configurado nos aplicativos
+2. **Configuração do Firebase**
+   - Acesse o [Firebase Console](https://console.firebase.google.com)
+   - Verifique se você tem acesso ao projeto ou solicite permissões ao administrador
+   - Os arquivos `google-services.json` já estão configurados nos aplicativos
+   - **Serviços habilitados**: Authentication, Firestore, Realtime Database, Storage
 
 3. **Configuração do Google Maps**
+   - Obtenha uma chave de API do Google Maps no [Google Cloud Console](https://console.cloud.google.com/)
+   - Ative as APIs: Maps SDK for Android e Places API
    - Adicione a chave no arquivo `app2/src/main/AndroidManifest.xml`:
    ```xml
    <meta-data
        android:name="com.google.android.geo.API_KEY"
-       android:value="AIzaSyB6IZsteY3--0L2Swv99Jx2paR_dbnV5Sk" />
+       android:value="SUA_CHAVE_GOOGLE_MAPS_AQUI" />
    ```
+   > ⚠️ **Importante**: Nunca compartilhe sua chave de API publicamente. Mantenha-a segura e configure restrições adequadas no Google Cloud Console.
 
 4. **Configuração do Android Studio**
    - Abra o projeto no Android Studio
-   - Sincronize o projeto com os arquivos Gradle
-   - Aguarde a conclusão do download das dependências
+   - Aguarde a sincronização automática com os arquivos Gradle
+   - Verifique se todas as dependências foram baixadas corretamente
+   - Configure um emulador ou conecte um dispositivo físico para testes
 
 ### Executando os Aplicativos
 
@@ -131,11 +171,15 @@ Se houver problemas com a configuração do Firebase:
 Para resolver problemas com o Google Maps:
 
 - Verifique se a chave da API do Google Maps está correta no arquivo `app2/src/main/AndroidManifest.xml`.
+- Certifique-se de que as APIs necessárias estão habilitadas no Google Cloud Console:
+  - Maps SDK for Android
+  - Places API
   ```xml
    <meta-data
        android:name="com.google.android.geo.API_KEY"
-       android:value="AIzaSyB6IZsteY3--0L2Swv99Jx2paR_dbnV5Sk" />
+       android:value="SUA_CHAVE_GOOGLE_MAPS_AQUI" />
    ```
+- Verifique as restrições de uso da API key no Google Cloud Console
 
 </details>
 
@@ -180,6 +224,24 @@ Ou reinicie o Android Studio, que pode detectar a mudança automaticamente
 </details>
 ✅ Pronto! O caminho do SDK foi configurado corretamente e o projeto deve funcionar sem erros relacionados ao Gradle.
 
+
+---
+
+## 🎓 Sobre o Projeto Acadêmico
+
+Este é um **Projeto Integrador** desenvolvido como parte do curso, com o objetivo de aplicar na prática os conhecimentos adquiridos em:
+
+- **Desenvolvimento Mobile**: Criação de aplicativos Android nativos
+- **Integração com Serviços em Nuvem**: Uso do Firebase para backend
+- **Geolocalização e Mapas**: Implementação de funcionalidades baseadas em localização
+- **Experiência do Usuário**: Design de interfaces intuitivas para diferentes perfis de usuário
+- **Gestão de Projetos**: Planejamento e execução de um sistema completo
+
+### 📊 Status do Projeto
+- ✅ **Concluído**: Desenvolvimento dos dois aplicativos Android
+- ✅ **Funcional**: Sistema de autenticação e registro de riscos
+- ✅ **Integrado**: Comunicação entre apps via Firebase
+- ✅ **Testado**: Validação em dispositivos reais e emuladores
 
 ---
 
