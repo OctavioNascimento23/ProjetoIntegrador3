@@ -148,12 +148,24 @@ git clone https://github.com/OctavioNascimento23/ProjetoIntegrador3.git
 
 ### Solução de Problemas Comuns
 
-<details> <summary><strong>⚠️ 1. Erro de Gradle</strong></summary>
+<details> <summary><strong>⚠️ 1. Erro de Gradle/AGP Version</strong></summary>
+
+Se você encontrar erros relacionados ao Android Gradle Plugin (AGP), tente os seguintes passos:
+
+- Verifique se está usando uma versão compatível do Android Studio (2023.1+)
+- Execute "File > Invalidate Caches / Restart" no Android Studio
+- Atualize o AGP no arquivo `gradle/libs.versions.toml` para uma versão estável mais recente
+- Sincronize o projeto: "File > Sync Project with Gradle Files"
+
+</details>
+
+<details> <summary><strong>🔧 2. Erro de Dependências do Gradle</strong></summary>
 
 Se você encontrar erros relacionados ao Gradle, tente os seguintes passos:
 
 - Execute "File > Invalidate Caches / Restart" no Android Studio.
 - Atualize o Gradle para a versão mais recente, se necessário.
+- Verifique sua conexão com a internet para download das dependências.
 
 </details>
 
